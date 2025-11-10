@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHZkMjQ5ZzZscDk1MXQ2a2V2ZTY3dTNnbDVxOXo4aHVua2plZmQxMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3sDaYbHuv8ypgZCcjG/giphy.gif)"  />
 </div>
 
 ###
@@ -66,8 +66,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
 </div>
 
 ###
@@ -77,12 +75,9 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Lzyyy12&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lzyyy12&show_icons=true&theme=tokyonight" height="180" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lzyyy12&layout=compact&theme=tokyonight" height="180" alt="Top languages" />
 </div>
+
+<!-- Ashutosh's github activity graph -->
+<p><img align="center" height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=Lzyyy12&theme=minimal&area=true" /></p>
