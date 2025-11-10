@@ -8,11 +8,8 @@
 <h1 align="center">👋 Hi, I’m Yuxin Tian (Ella)</h1>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ella-tian325/" target="_blank">
+  <a href="https://www.linkedin.com/in/yuxin-tian-b64a0a336/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
-  </a>
-  <a href="mailto:ella.tian325@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email logo" />
   </a>
   <a href="https://Lzyyy12.github.io" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio website" />
@@ -42,6 +39,8 @@
 • Exploring <b>Cybersecurity</b>, <b>Software Testing</b>, and <b>Financial Systems in Software</b><br/>
 • Passionate about <b>Artificial Intelligence</b>, <b>Cloud Computing</b>, and <b>Sustainable Web Technologies</b>
 
+📫 <b>How to reach me</b><br/>
+• ella [dot] tian325 [at] gmail [dot] com
 
 
 ---
@@ -84,7 +83,7 @@ Built a conversational writing workflow with humanization and AI-detection-resis
 
 ---
 
-#### 🧒 [Prometheus.EDU — AI Learning Platform]()
+#### 🧒 Prometheus.EDU — AI Learning Platform
 **Themes:** Artificial Intelligence · Reasoning & Planning · Data Analysis  
 > **Co-founder & Frontend Engineer** | React · Flask · AI Integration  
 Developed a next-generation education platform combining structured video learning with AI tutoring.  
