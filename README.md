@@ -27,7 +27,7 @@
 
 🎓 <b>Education</b><br/>
 • <b>MSc Advanced Software Engineering</b> — King’s College London<br/>
-• <b>BSc Computer Science</b> — University College Dublin<br/>
+• <b>BSc Software Engineering</b> — University College Dublin<br/>
 • <b>BEng Software Engineering</b> — Beijing University of Technology<br/><br/>
 
 💼 <b>Professional Experience</b><br/>
