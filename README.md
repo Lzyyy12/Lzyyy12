@@ -48,11 +48,13 @@
 ### 🛠️ Tech Stack
 
 #### 💻 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 #### ⚙️ Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -83,7 +85,7 @@ Built a conversational writing workflow with humanization and AI-detection-resis
 
 ---
 
-#### 🧒 Prometheus.EDU — AI Learning Platform
+#### 🧒 [Prometheus.EDU — AI Learning Platform](https://github.com/Group2-MountOlympus-FYP/Prometheus.EDU)
 **Themes:** Artificial Intelligence · Reasoning & Planning · Data Analysis  
 > **Co-founder & Frontend Engineer** | React · Flask · AI Integration  
 Developed a next-generation education platform combining structured video learning with AI tutoring.  
